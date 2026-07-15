@@ -120,7 +120,7 @@ Home
 
 <div class="intro-section">
     <h2>Welcome</h2>
-    <p>This is a personal web project built with <strong>Laravel 12</strong>, <strong>Tailwind CSS</strong>, and a touch of <strong>Sriracha</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat odio tempora omnis numquam vero voluptates enim accusantium sint iste animi aperiam ab voluptas, molestiae error porro, blanditiis iusto adipisci quis.
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat odio tempora omnis numquam vero voluptates enim accusantium sint iste animi aperiam ab voluptas, molestiae error porro, blanditiis iusto adipisci quis.
 </p>
 </div>
 
@@ -139,15 +139,6 @@ Home
 
 <div class="section-divider"></div>
 
-<div class="footer-note">
-    <p style="margin: 0 0 12px 0;"><strong>Built with:</strong></p>
-    <div class="tech-stack">
-        <span class="tech-badge">Laravel 12</span>
-        <span class="tech-badge">Tailwind CSS</span>
-        <span class="tech-badge">PHP 8.2</span>
-        <span class="tech-badge">SQL</span>
-        <span class="tech-badge">Pest</span>
-    </div>
     <p style="margin-top: 20px; color: #999; font-style: italic;">Jetsada Onsuang</p>
 </div>
 @endsection
